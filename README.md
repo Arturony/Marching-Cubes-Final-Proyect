@@ -5,7 +5,7 @@ Repositorio original: https://github.com/SebLague/Marching-Cubes
 
 # Marching Cubes
 
-Para este proyecto se usó el generador de terreno creado por Sebastian Lague para crear un entorno interactivo. El terreno se crea por medio de un compute shader que calcula la geometría basado en un generador de ruido que actúa como volumen a renderizar. A esta geometría luego se le implementa una textura basada en un gradiante, para dar la impresión de profundidad y altura. 
+Para este proyecto se usó el generador de terreno creado por Sebastian Lague para crear un entorno interactivo. <br> El terreno se crea por medio de un compute shader que calcula la geometría basado en un generador de ruido que actúa como volumen a renderizar. A esta geometría luego se le implementa una textura basada en un gradiante, para dar la impresión de profundidad y altura. 
 
 <img width="293" alt="image" src="https://user-images.githubusercontent.com/32319160/205808618-d1f5485b-8caa-4aec-8f0c-8dc5eb03ea0d.png">
 
