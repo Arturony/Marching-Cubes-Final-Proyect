@@ -1,6 +1,6 @@
 # Proyecto Final Computación Visual
 
-Basado en el video https://www.youtube.com/watch?v=M3iI2l0ltbE \n
+Basado en el video https://www.youtube.com/watch?v=M3iI2l0ltbE <br>
 Repositorio original: https://github.com/SebLague/Marching-Cubes
 
 # Marching Cubes
